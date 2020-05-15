@@ -1,4 +1,5 @@
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+
 # Foobar
 
 Watchbase is video library website developed on Laravel. This small project was done as an assignment for Web Engineering course at my university.
